@@ -1,2 +1,6 @@
 # Escape-Mission
-Escape Mission
+
+## 2026-09-09 업데이트
+
+- 점프 오류 해결
+- 스테이지 1 배경 완성
