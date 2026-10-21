@@ -1,5 +1,14 @@
 # Escape-Mission
 
+## 플레이
+
+[Scratch에서 Escape-Mission 플레이하기](https://scratch.mit.edu/projects/1366711347/)
+
+## 2026-10-21 업데이트
+
+- 배경 음악과 종료 효과음을 추가
+- 곰 캐릭터와 버튼에 효과음을 추가
+
 ## 2026-10-14 업데이트
 
 - Stage3와 END 배경을 추가하고 Stage1, Stage2, Stage3, 종료 화면으로 이어지는 배경 전환 구현
